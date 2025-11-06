@@ -7,7 +7,7 @@ Perform data preprocessing (cleaning, normalization, and preparation) using pand
 1. Loaded the Iris dataset  
 2. Checked for missing and duplicate values  
 3. Cleaned data  
-4. Scaled numeric features using `StandardScaler`  
+4. Scaled numeric features using 'Standardscalar' 
 5. Split data into training and testing sets  
 6. Saved the final preprocessed dataset  
 
@@ -18,4 +18,4 @@ Perform data preprocessing (cleaning, normalization, and preparation) using pand
 - NumPy  
 
 ## 📊 Output Files
-- `preprocessed_data.csv` → Clean and normalized dataset ready for AI modeling
+- 'preprocessed_data.csv' → Clean and normalized dataset ready for AI modeling
